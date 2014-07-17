@@ -1,0 +1,33 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: libvpx-v1.0.0.zip
+       Short Description: libvpx v1.0.0 for OS/2
+        Long Description: libvpx v1.0.0 for OS/2
+WebM is an open, royalty-free, media file format designed for the web.
+
+WebM defines the file container structure, video and audio formats. WebM files
+consist of video streams compressed with the VP8 video codec and audio streams
+compressed with the Vorbis audio codec. The WebM file structure is based on the
+Matroska container.
+
+      Proposed directory
+           for placement: /pub/os2/dev/mm
+
+               Your name: KO Myung-Hun
+           Email address: komh@chollian.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: kLIBC v0.6.4
+
+                Replaces: (none)
+
+
+
